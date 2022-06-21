@@ -15,7 +15,12 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
-
+a{
+  color : white;
+}
+a:hover{
+color:red;
+}
 .w.drum {
    background-image: url("images/tom1.png") ;
    color: white;
