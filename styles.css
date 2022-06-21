@@ -17,6 +17,7 @@ footer {
 }
 a{
   color : white;
+  line-height : 2;
 }
 a:hover{
 color:red;
